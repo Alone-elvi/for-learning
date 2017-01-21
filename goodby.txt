@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Goodby World")
+=======
+print("Goodby World")
+print("Goodbye")
+>>>>>>> master
 =======
 print("Goodby World")
 print("Goodbye")
